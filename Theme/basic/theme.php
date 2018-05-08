@@ -16,7 +16,7 @@
     <head>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Emoncms - <?php echo $route->controller.' '.$route->action.' '.$route->subaction; ?></title>
+        <title>ITW WAnD- <?php echo $route->controller.' '.$route->action.' '.$route->subaction; ?></title>
         <link rel="shortcut icon" href="<?php echo $path; ?>Theme/<?php echo $theme; ?>/<?php echo $favicon; ?>" />
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -175,7 +175,7 @@
 
         <div id="footer">
             <?php echo _('Powered by '); ?>
-            <a href="http://openenergymonitor.org">OpenEnergyMonitor.org</a>
+            <a href="http://www.intracworks.com">InTracWorks</a>
             <span> | <a href="https://github.com/emoncms/emoncms/releases"><?php echo $emoncms_version; ?></a></span>
         </div>
         <script type="text/javascript" src="<?php echo $path; ?>Lib/bootstrap/js/bootstrap.js"></script>
