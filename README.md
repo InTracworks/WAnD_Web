@@ -36,10 +36,15 @@ Linux Installation procedure : https://github.com/emoncms/emoncms/blob/master/do
 
 ### Change required to customise the icon and name
 
-Theme\basic\   all the png or image files
+Theme\basic\   (cutomise the png or image files)
 
-Theme\basic\theme.php
+Theme\basic\theme.php (chnage name and powered by + remove release and version)
 
-Theme\basic\embed.php
+Theme\basic\embed.php (name)
+
+Theme\basic\emon-standard.css (footer color )
+
+Modules\user\login_block.php (change login page padding)
+
 
 
