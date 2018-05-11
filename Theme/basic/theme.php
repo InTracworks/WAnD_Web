@@ -176,7 +176,6 @@
         <div id="footer">
             <?php echo _('Powered by '); ?>
             <a href="http://www.intracworks.com">InTracWorks</a>
-            <span> | <a href="https://github.com/emoncms/emoncms/releases"><?php echo $emoncms_version; ?></a></span>
         </div>
         <script type="text/javascript" src="<?php echo $path; ?>Lib/bootstrap/js/bootstrap.js"></script>
     </body>
