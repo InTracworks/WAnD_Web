@@ -44,7 +44,6 @@ Theme\basic\embed.php (name)
 
 Theme\basic\emon-standard.css (footer color )
 
-Modules\user\login_block.php (change login page padding)
 
 
 
